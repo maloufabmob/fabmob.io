@@ -1,3 +1,3 @@
 # L'open source
 
-Blabla recette
+L’open source est un jeu d’instructions (le code source) permettant de construire quelque chose et ayant la particularité d’être ouvert (open), c’est-à-dire lisible par tou.te.s. Concrètement, si ce “quelque chose” est un repas, alors son code source est sa recette de cuisine, et il est probable qu’elle soit ouverte : sauf à déjeuner dans un restaurant gastronomique, vous trouverez en deux clics une recette de lasagnes. Une recette, c’est une suite d’instructions, dans un langage compréhensible (le français), qui transforme des ingrédients documentés (qu’est-ce qu’un zeste de citron ?) en un autre ingrédient, substantiellement différent, par l’utilisation d’outils (mains, couteau, mixeur, etc.). Et surtout : vous n’aurez pas besoin de payer pour l’utiliser autant de fois que vous le voulez, vous l’approprier, et un jour peut-être en inventer vos propres variantes.
